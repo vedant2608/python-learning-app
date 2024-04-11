@@ -3,6 +3,8 @@
 
 # Download PyLearn from [Here!](https://github.com/vedant2608/python-learning-app/releases/tag/v1.0)
 
+- Currently It is packaged only for windows, upload the packaged for Linux and MacOs also.
+
 This project has been developed using Streamlit, with the aim of facilitating Python learning for newcomers to the language. 
 
   - Goal is to provide a comprehensive learning experience by combining theoretical lessons with practical coding exercises.
